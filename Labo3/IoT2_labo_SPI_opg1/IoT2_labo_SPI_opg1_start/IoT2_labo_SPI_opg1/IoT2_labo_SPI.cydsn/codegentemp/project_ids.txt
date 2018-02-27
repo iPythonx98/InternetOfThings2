@@ -1,0 +1,7 @@
+C:\Users\basile.berckmoes\Documents\GitHub\InternetOfThings2\Labo3\IoT2_labo_SPI_opg1\IoT2_labo_SPI_opg1_start\IoT2_labo_SPI_opg1\IoT2_labo_SPI.cydsn\IoT2_labo_SPI.cyprj|10d076f1-3c6c-4122-95d2-f4e02457b760
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|2963d99c-e687-4f8d-8ae4-118b2ea40420
+C:\Users\basile.berckmoes\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|5403553a-f959-4cc4-a8e1-6901ae6bb073
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|3afe056e-58ba-42e0-8c4d-9c095e5886e4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|1bb1f224-4234-41ce-816d-526dd5d8487e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|b6e1ee1a-c6fc-4c0e-8967-2016dd35fc26
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|64c959fe-e0b9-41b8-a11a-5b4f8ac2eeeb
