@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="IoT2_labo_SPI\IoT2_labo_SPI\TopDesign">
+<ExpandedNodeIds>
+<v>IoT2_labo_SPI</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\TopDesign</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\Pins</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\Analog</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\Clocks</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\Interrupts</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\DMA</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\System</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\Directives</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\Flash Security</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\EEPROM</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Header Files</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Header Files\console_font_8x8.h</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Header Files\cyapicallbacks.h</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Header Files\max7221.h</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Source Files</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Source Files\main.c</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Generated_Source</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>IoT2_labo_SPI</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\TopDesign</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\Pins</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\Analog</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\Clocks</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\Interrupts</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\DMA</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\System</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\Directives</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\Flash Security</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.cydwr\EEPROM</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Header Files</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Header Files\console_font_8x8.h</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Header Files\cyapicallbacks.h</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Header Files\max7221.h</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Source Files</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Source Files\main.c</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Generated_Source</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Generated_Source\PSoC5</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Generated_Source\PSoC5\Clock_1</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Generated_Source\PSoC5\ControlRegDisp</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Generated_Source\PSoC5\cy_boot</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Generated_Source\PSoC5\LED1</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Generated_Source\PSoC5\LED2</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Generated_Source\PSoC5\LEDS</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Generated_Source\PSoC5\MISO1</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Generated_Source\PSoC5\MOSI1</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Generated_Source\PSoC5\P1</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Generated_Source\PSoC5\P2</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\Generated_Source\PSoC5\P3</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>IoT2_labo_SPI</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\TopDesign</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>IoT2_labo_SPI</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\TopDesign</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>IoT2_labo_SPI</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\ControlRegDisp.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\ControlRegDisp_PM.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\LED1.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\LED2.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\LEDS.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\LEDS_PM.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\MISO1.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\MOSI1.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\P1.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\P2.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\P3.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\P4.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\SCLK1.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_INT.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_IntClock.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_PM.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\SS11.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\SS12.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\SS13.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\SS14.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\SW1.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\SW2.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\SWITCHES.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_INT.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_IntClock.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\IoT2_labo_SPI.elf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\IoT2_labo_SPI.hex</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CortexM3\ARM_GCC_541\Debug\IoT2_labo_SPI.map</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.gpdsc</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI.rpt</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\IoT2_labo_SPI_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>IoT2_labo_SPI</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>IoT2_labo_SPI</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\PSoC 5LP Architecture TRM</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CY8C58LP Family Datasheet</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\System Reference Guides</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\System Reference Guides\cy_boot_v5_60</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\cy_clock_v2_20.pdf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\cy_constant_v1_0</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\cy_pins_v2_20</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CyControlReg_v1_80</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CyControlReg_v1_80\CyControlReg_v1_80.pdf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CyStatusReg_v1_90.pdf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\demux_v1_10.pdf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\not_v1_0</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\not_v1_0\not_v1_0.pdf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\SPI_Master_v2_50.pdf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\UART_v2_50.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>IoT2_labo_SPI</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\PSoC 5LP Architecture TRM</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CY8C58LP Family Datasheet</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\System Reference Guides</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\System Reference Guides\cy_boot_v5_60</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\cy_clock_v2_20.pdf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\cy_constant_v1_0</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\cy_pins_v2_20</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CyControlReg_v1_80</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CyControlReg_v1_80\CyControlReg_v1_80.pdf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\CyStatusReg_v1_90.pdf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\demux_v1_10.pdf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\not_v1_0</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\not_v1_0\not_v1_0.pdf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\SPI_Master_v2_50.pdf</v>
+<v>IoT2_labo_SPI\IoT2_labo_SPI\UART_v2_50.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="6c335137-fa19-46ce-bc2d-2fbeb6d5f2a2">
+<CyGuid_70084457-cd6a-4593-9ed0-7f6eeb432dc2 type_name="CyDesigner.Common.ProjMgmt.GUI.CyDependenciesCustomData" version="1">
+<dictName v=".\IoT2_labo_SPI.cydsn\IoT2_labo_SPI.cyprj">
+<listName>
+<v>C:\Program Files (x86)\Cypress\CharLCD_I2C.cylib\CharLCD_I2C.cyprj</v>
+</listName>
+</dictName>
+</CyGuid_70084457-cd6a-4593-9ed0-7f6eeb432dc2>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\IoT2_labo_SPI.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\IoT2_labo_SPI.cydsn\main.c" />
+<name v=".\IoT2_labo_SPI.cydsn\IoT2_labo_SPI.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="749, 431" SelectedTabbedMdiWindow="268a2b06-7ad5-488b-9dfc-8ba1ab70b9ef"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="f83bc7fb-e30f-4f38-87ae-51ae871f94ca" /><DocumentWindow Key="C:\Users\basile.berckmoes\Documents\GitHub\InternetOfThings2\Labo3\IoT2_labo_SPI_opg1\IoT2_labo_SPI_opg1_start\IoT2_labo_SPI_opg1\IoT2_labo_SPI.cydsn\TopDesign\TopDesign.cysch" Guid="268a2b06-7ad5-488b-9dfc-8ba1ab70b9ef" /><DocumentWindow Key="C:\Users\basile.berckmoes\Documents\GitHub\InternetOfThings2\Labo3\IoT2_labo_SPI_opg1\IoT2_labo_SPI_opg1_start\IoT2_labo_SPI_opg1\IoT2_labo_SPI.cydsn\main.c" Guid="addc884d-1a2f-4955-ba12-8b5e4d754dbb" /><DocumentWindow Key="C:\Users\basile.berckmoes\Documents\GitHub\InternetOfThings2\Labo3\IoT2_labo_SPI_opg1\IoT2_labo_SPI_opg1_start\IoT2_labo_SPI_opg1\IoT2_labo_SPI.cydsn\IoT2_labo_SPI.cydwr" Guid="41624d07-a877-4db1-9ac6-0a2cbcf46fcb" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

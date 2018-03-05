@@ -72,6 +72,7 @@ int main(void)
         LEDS_Write(schakelaars);
         if (letter != 0) 
         {
+            
             UART_PutChar(letter); 
             printChar(letter);
         }
